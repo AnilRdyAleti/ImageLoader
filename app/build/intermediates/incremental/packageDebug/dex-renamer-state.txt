@@ -1,0 +1,7 @@
+#Wed Oct 18 11:58:13 EDT 2017
+base.0=C\:\\Users\\anilreddy\\Desktop\\ImageLoader_Anil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9ab15c347c8c411984d9c4199365959d2ef5ec7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\anilreddy\\Desktop\\ImageLoader_Anil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92f1e9a26e4b55eaedb6b6e70cf5223f549dfc05\\classes.dex
+base.1=C\:\\Users\\anilreddy\\Desktop\\ImageLoader_Anil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_92f1e9a26e4b55eaedb6b6e70cf5223f549dfc05
+file.0=C\:\\Users\\anilreddy\\Desktop\\ImageLoader_Anil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9ab15c347c8c411984d9c4199365959d2ef5ec7\\classes.dex

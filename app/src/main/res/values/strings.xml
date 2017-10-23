@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Library</string>
+
+    <string name="progress_title">Downloading</string>
+    <string name="progress_message">Please wait..</string>
+    <string name="snackbar_error">Unexpected Error Occurred</string>
+    <string name="toolbar_title">Select your image</string>
+</resources>
